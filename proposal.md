@@ -1,20 +1,17 @@
-My proposal for the Major Project
+# My proposal for the Major Project
 
-So im still a bit confused but rn i have 2 ideas; either
+# AN ASTRIOD SHOOTER SPACESHIP GAME
+It will have a spaceship shooting and dodging upcoming astriods
 
-1 - A 2D endless runner game
+- NEEDS TO HAVE (minimal viable product)
+1 - Astriods will have different sizes of astriods
+2 - A rotating function for the player's ship to shoot at angles
+3 - Also the ship would be movable around the whole canvas to dodge stuff (to add more depth)
+4 - Will have a scoring system and a leaderboard for highest scorers
+5 - A time based difficulty system 
 
-It will be probably a stickman running or a person riding a horse running
-A themed UI/UX (probably in the nice to have things)
-It will have multiple obstacles which it would duck (to add more depth) under or jump over
-It will have a scoring system too with a leaderboard for highest scores
-
-                                  OR
-
-2 - An astriod shooter spaceship game
-
-It will have a spaceship shooting upcoming astriods
-Probably will add some fun entities to shoot into like an alien floating/a satellite/enemy ship and 1 or 2 easter eggs too  (half nice to have thing)
-Maybe a rotating function for the player's ship to shoot at angles
-Also the ship would be movable around the canvas to dodge stuff (to add more depth)
-Will have a scoring system too like the previous one and a leaderboard thing too
+- NICE TO HAVE
+Probably will add some fun entities to shoot into like an alien floating/a satellite/enemy ship and 1 or 2 easter eggs too
+Power Ups/Downs spawing through the game like double shooters, increased speed, turning small etc
+Different skins for the player's ship
+A health system (either a 3 heart/lives or a health bar)
